@@ -68,7 +68,7 @@ const Services = () => {
 
         {/* Sección de tecnologías */}
         <div className="mt-20">
-          <h3 className="text-2xl font-bold text-white text-center mb-10">Tecnologías que utilizo</h3>
+          <h3 className="text-2xl font-bold text-white text-center mb-10">Experiencia Técnica</h3>
           
           <div className="flex flex-wrap justify-center gap-8 items-center">
             {/* Logos de tecnologías con animaciones al pasar el mouse */}
